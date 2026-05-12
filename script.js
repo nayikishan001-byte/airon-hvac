@@ -1,0 +1,1 @@
+console.log("CoolAir Website Loaded");
